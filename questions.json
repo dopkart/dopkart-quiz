@@ -22,11 +22,12 @@
   {
     "question": "Following bags are not treated as due bag?",
     "options": [
-      "Cash Bags",
       "Transit Bags",
+      "Cash Bags",
+      
       "Accounts Bags",
       "Branch Office Bags"
     ],
-    "answer": 0
+    "answer": 1
   }
 ]
