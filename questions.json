@@ -1,12 +1,22 @@
-const questions = [
-{
-question:"India Post was established in?",
-options:["1948","1854","1950","1865"],
-answer:1
-},
-{
-question:"Speed Post started in?",
-options:["1984","1986","1990","1995"],
-answer:1
-}
-];
+[
+  {
+    "question": "India Post was established in?",
+    "options": [
+      "1948",
+      "1854",
+      "1950",
+      "1865"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Speed Post started in?",
+    "options": [
+      "1984",
+      "1986",
+      "1990",
+      "1995"
+    ],
+    "answer": 1
+  }
+]
