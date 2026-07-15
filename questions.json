@@ -28,5 +28,15 @@
       "Branch Office Bags"
     ],
     "answer": 1
+  },
+  {
+    "question": "PIN Code was introduced in?",
+    "options": [
+      "1972",
+      "1970",
+      "1975",
+      "1980"
+    ],
+    "answer": 0
   }
 ]
