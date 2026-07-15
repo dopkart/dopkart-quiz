@@ -18,5 +18,15 @@
       "1995"
     ],
     "answer": 1
+  },
+  {
+    "question": "Following bags are not treated as due bag?",
+    "options": [
+      "Cash Bags",
+      "Transit Bags",
+      "Accounts Bags",
+      "Branch Office Bags"
+    ],
+    "answer": 1
   }
 ]
