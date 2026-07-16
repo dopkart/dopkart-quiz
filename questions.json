@@ -38,5 +38,505 @@
       "1980"
     ],
     "answer": 0
+  },
+    {
+    "question": "According to the PO Guide Part-1, what action must be taken if a postal employee suspects that a parcel contains prohibited items such as explosives or noxious substances?",
+    "options": [
+      "Immediately return the parcel to the sender without opening it",
+      "Deliver it as usual but mark it for inspection",
+      "Detain the parcel and report it to the Head of the Office for further action",
+      "Open the parcel on the spot and verify its contents without informing superiors"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following Articles are not delivered through a post box?",
+    "options": [
+      "Aerogramme",
+      "Inland Letter Cards",
+      "Registered Letters",
+      "Registered Newspapers"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "International Financial System (IFS) Money Order (IFS-MO) is operational in which of the following countries/Postal Operators?",
+    "options": [
+      "Only with La Poste France",
+      "Only with UAE",
+      "Both La Poste France and UAE",
+      "None of the Above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is correct with respect to Gyan Post?",
+    "options": [
+      "Min 300 g, Max 5 kg",
+      "Min 100 g, Max 5 kg",
+      "Min 300 g, Max 10 kg",
+      "Min 100 g, Max 10 kg"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is correct with respect to Gyan Post transmission?",
+    "options": [
+      "Address specific, surface",
+      "Addressee specific, air",
+      "Addressee specific, surface",
+      "Address specific, air"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is correct regarding Literature for Blind?",
+    "options": [
+      "Postage only",
+      "No postage and no air fee",
+      "Postage and air fee",
+      "No postage but air fee for air transmission"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which is not typically a duty of a Post Office Counter Clerk?",
+    "options": [
+      "Booking articles",
+      "Preparing accounts",
+      "Delivering mail at doorstep",
+      "Money Order payment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Who is the administrative head of the Department of Posts?",
+    "options": [
+      "Director General",
+      "Chief General Manager",
+      "Secretary (Posts)",
+      "Member (Operations)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Standard business hours of a post office?",
+    "options": [
+      "9-3",
+      "10-4",
+      "9-2",
+      "9:30-5:30"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which is not a duty of a Letter Box Peon?",
+    "options": [
+      "Collect letters",
+      "Open collected letters",
+      "Lock letter box",
+      "Report damage"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Conditionally transmissible article?",
+    "options": [
+      "Explosives",
+      "Live animals",
+      "Liquids and semi-liquids",
+      "Gold"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hair oil, medicine and tool parcel should be?",
+    "options": [
+      "Accept normally",
+      "Refuse",
+      "Accept with declaration and proper packing",
+      "Only Speed Post"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Maximum weight for International Tracked Packet?",
+    "options": [
+      "20 kg",
+      "5 kg",
+      "10 kg",
+      "35 kg"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Correct statement regarding payment of postage?",
+    "options": [
+      "Only adhesive stamps",
+      "Official mail must bear stamps",
+      "Stamps, impressions or cash",
+      "Impressed stationery not for registered"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Treatment of insufficiently paid articles?",
+    "options": [
+      "Return",
+      "Deliver at PM discretion",
+      "Charge double deficiency",
+      "Free for Govt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Franking machine payment?",
+    "options": [
+      "Govt only",
+      "Advance payment under agreement",
+      "International only",
+      "After dispatch"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Not a valid condition for franked articles?",
+    "options": [
+      "Bundle by value",
+      "Impression on address side",
+      "More than one licence die impression",
+      "Separate bundles"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Franking statements P/Q",
+    "options": [
+      "Both correct",
+      "Both incorrect",
+      "P correct",
+      "Q correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "IPO not presented within six months?",
+    "options": [
+      "Penalty",
+      "Void",
+      "Second commission",
+      "Forfeited"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which is not prohibited by Inland Post?",
+    "options": [
+      "Sharp instrument",
+      "Offensive newspaper",
+      "Lottery ticket",
+      "Gold coin/bullion <=10000"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Minimum replenishment of Philatelic Deposit Account?",
+    "options": [
+      "25",
+      "50",
+      "100",
+      "200"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Key objective of IT Modernization Project?",
+    "options": [
+      "Green energy",
+      "Software applications",
+      "Foreign connections",
+      "E-commerce"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Holy Blessings not available for?",
+    "options": [
+      "Kashi Vishwanath",
+      "Banke Bihari",
+      "Hanuman Garhi",
+      "Sabarimala"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Renewal fee of expired franking licence?",
+    "options": [
+      "375",
+      "475",
+      "350",
+      "325"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Maximum weight for Book Packet?",
+    "options": [
+      "5 kg",
+      "3 kg",
+      "2 kg",
+      "10 kg"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Speed Post discount for ₹50,001–₹2,50,000?",
+    "options": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Additional DNK discount?",
+    "options": [
+      "2%",
+      "3%",
+      "1%",
+      "5%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "SPARSH Yojana eligible class?",
+    "options": [
+      "V",
+      "VI",
+      "X",
+      "All"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Minimum Direct Post quantity?",
+    "options": [
+      "1000",
+      "500",
+      "1500",
+      "2000"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "MO unpaid beyond how many years forfeited?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "0.5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Not a Fundamental Right?",
+    "options": [
+      "Language rights",
+      "Minority institutions",
+      "Religious affairs",
+      "Right to discriminate"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Borrowed from Canadian Constitution?",
+    "options": [
+      "Judicial review",
+      "DPSP",
+      "Speaker",
+      "Residual powers"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Average speed of 60 and 40 km/h?",
+    "options": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "15 workers 24 days -> 20 workers 6 hrs/day?",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "22"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Highest soybean producing state?",
+    "options": [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Maharashtra"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Khajuraho temples built by?",
+    "options": [
+      "Gupta",
+      "Maratha",
+      "Maurya",
+      "Chandela"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Simple interest rate?",
+    "options": [
+      "5%",
+      "10%",
+      "6%",
+      "8%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mimamsa ethics basis?",
+    "options": [
+      "Moksha",
+      "Ahimsa",
+      "Atman-Brahman",
+      "Vedic injunctions"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Gandhi Trusteeship?",
+    "options": [
+      "Nationalization",
+      "Renunciation",
+      "Compulsory taxation",
+      "Moral stewardship"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "8 + 6 × (5 − 3)^2 ÷ 2 = ?",
+    "options": [
+      "20",
+      "26",
+      "14",
+      "18"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "ISRO functions under?",
+    "options": [
+      "1959",
+      "Mumbai HQ",
+      "Department of Space",
+      "Statutory body"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sorrow of Bihar?",
+    "options": [
+      "Gandak",
+      "Kosi",
+      "Son",
+      "Ghaghara"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mini Constitution amendment?",
+    "options": [
+      "24th",
+      "42nd",
+      "44th",
+      "52nd"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "√144 + 12 ÷ 3 × 2 = ?",
+    "options": [
+      "20",
+      "18",
+      "16",
+      "24"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Not a greenhouse gas?",
+    "options": [
+      "CO2",
+      "CH4",
+      "N2",
+      "N2O"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Longest coastline state?",
+    "options": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Gujarat",
+      "Maharashtra"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Smallest prime number?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Author of Discovery of India?",
+    "options": [
+      "Gandhi",
+      "Ambedkar",
+      "Jawaharlal Nehru",
+      "Patel"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Right to Constitutional Remedies?",
+    "options": [
+      "Art 19",
+      "Art 21",
+      "Art 32",
+      "Art 51A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "National aquatic animal?",
+    "options": [
+      "Blue Whale",
+      "Olive Ridley Turtle",
+      "Ganges River Dolphin",
+      "Crocodile"
+    ],
+    "answer": 2
   }
 ]
