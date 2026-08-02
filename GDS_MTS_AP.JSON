@@ -1,1 +1,252 @@
-
+[
+  {
+    "question": "Which of the following is NOT handled by Mail Office?",
+    "options": ["Sorting", "Transmission", "Delivery", "Dispatch"],
+    "answer": "Delivery"
+  },
+  {
+    "question": "Which of the following is NOT a delivery term?",
+    "options": ["Sorting case", "Delivery area", "Beat", "Postman route"],
+    "answer": "Sorting case"
+  },
+  {
+    "question": "Which carries cash only?",
+    "options": ["Registered bag", "Account bag", "Cash bag", "Parcel bag"],
+    "answer": "Cash bag"
+  },
+  {
+    "question": "A bundle containing only insured articles is:",
+    "options": ["Registered bundle", "Transit bundle", "Parcel bundle", "Insured bundle"],
+    "answer": "Insured bundle"
+  },
+  {
+    "question": "A delivery area assigned to a postman is called:",
+    "options": ["Sector", "Beat", "Range", "Division"],
+    "answer": "Beat"
+  },
+  {
+    "question": "A bag used to send accounts and documents between offices is:",
+    "options": ["Transit bag", "Special bag", "Parcel bag", "Account bag"],
+    "answer": "Transit bag"
+  },
+  {
+    "question": "Railway Mail Service (RMS) deals with:",
+    "options": ["Only rail transport", "Mail transport by all modes", "Only air transport", "Only road transport"],
+    "answer": "Mail transport by all modes"
+  },
+  {
+    "question": "The Postal Department is controlled by:",
+    "options": ["DG of Posts", "Minister", "PMG", "Superintendent"],
+    "answer": "DG of Posts"
+  },
+  {
+    "question": "Which is a type of Post Office?",
+    "options": ["District Office", "Circle Office", "Head Post Office", "Railway Office"],
+    "answer": "Head Post Office"
+  },
+  {
+    "question": "Post Offices are generally closed on:",
+    "options": ["Mondays", "Sundays", "Fridays", "Saturdays"],
+    "answer": "Sundays"
+  },
+  {
+    "question": "Fully prepaid articles are:",
+    "options": ["Delayed", "Ignored", "Destroyed", "Delivered faster"],
+    "answer": "Delivered faster"
+  },
+  {
+    "question": "Payment of postage is normally done by:",
+    "options": ["Coins", "Cheque", "Postage stamps", "Cash only"],
+    "answer": "Postage stamps"
+  },
+  {
+    "question": "Packing of postal articles should be:",
+    "options": ["Strong", "Weak", "Loose", "Open"],
+    "answer": "Strong"
+  },
+  {
+    "question": "Stamps should be affixed on:",
+    "options": ["Left corner", "Back side", "Right top corner", "Anywhere"],
+    "answer": "Right top corner"
+  },
+  {
+    "question": "Minimum number of stamps should be used to:",
+    "options": ["Increase weight", "Avoid misuse", "Beautify cover", "Delay"],
+    "answer": "Avoid misuse"
+  },
+  {
+    "question": "Proper address must include:",
+    "options": ["Only name", "Only village", "Only PIN", "Full details"],
+    "answer": "Full details"
+  },
+  {
+    "question": "PIN Code helps in:",
+    "options": ["Payment", "Sorting", "Packing", "Delivery charge"],
+    "answer": "Sorting"
+  },
+  {
+    "question": "Letter boxes are used for:",
+    "options": ["Delivery", "Posting letters", "Storage", "Sorting"],
+    "answer": "Posting letters"
+  },
+  {
+    "question": "Mail bags are used for:",
+    "options": ["Transport", "Storage", "Sorting", "Booking"],
+    "answer": "Transport"
+  },
+  {
+    "question": "Who clears the letter boxes?",
+    "options": ["Clerk", "Postmaster", "Letter Box Peon", "Inspector"],
+    "answer": "Letter Box Peon"
+  },
+  {
+    "question": "Letter Box Peon must ensure:",
+    "options": ["Delay", "Timely clearance", "Storage", "Sorting"],
+    "answer": "Timely clearance"
+  },
+  {
+    "question": "Official postal articles use:",
+    "options": ["Ordinary stamps", "Service stamps", "No stamps", "Foreign stamps"],
+    "answer": "Service stamps"
+  },
+  {
+    "question": "Which is a prohibited article?",
+    "options": ["Book", "Letter", "Postcard", "Explosive"],
+    "answer": "Explosive"
+  },
+  {
+    "question": "Obscene material in post is:",
+    "options": ["Allowed", "Ignored", "Prohibited", "Charged"],
+    "answer": "Prohibited"
+  },
+  {
+    "question": "Lottery advertisements through post are:",
+    "options": ["Prohibited", "Free", "Allowed", "Discounted"],
+    "answer": "Prohibited"
+  },
+  {
+    "question": "Which service is used for sending money?",
+    "options": ["Letter", "Parcel", "Postcard", "Money Order"],
+    "answer": "Money Order"
+  },
+  {
+    "question": "Registered articles provide:",
+    "options": ["No security", "Proof of delivery", "Free service", "Delay"],
+    "answer": "Proof of delivery"
+  },
+  {
+    "question": "Insured post is used for:",
+    "options": ["Ordinary letters", "Valuable articles", "Newspapers", "Cards"],
+    "answer": "Valuable articles"
+  },
+  {
+    "question": "If postage is insufficient, article is:",
+    "options": ["Delivered free", "Destroyed", "Taxed", "Ignored"],
+    "answer": "Taxed"
+  },
+  {
+    "question": "Articles posted early are:",
+    "options": ["Processed quickly", "Delayed", "Ignored", "Returned"],
+    "answer": "Processed quickly"
+  },
+  {
+    "question": "Kindness results in:",
+    "options": ["Anger", "Happiness", "Fear", "Weakness"],
+    "answer": "Happiness"
+  },
+  {
+    "question": "Responsibility means:",
+    "options": ["Ignoring duties", "Fighting", "Doing duties", "Blaming others"],
+    "answer": "Doing duties"
+  },
+  {
+    "question": "Who was the first Governor General of India?",
+    "options": ["Clive", "Cornwallis", "Warren Hastings", "Dalhousie"],
+    "answer": "Warren Hastings"
+  },
+  {
+    "question": "Who is called the Nightingale of India?",
+    "options": ["Indira Gandhi", "Sarojini Naidu", "Annie Besant", "Kasturba Gandhi"],
+    "answer": "Sarojini Naidu"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Einstein", "Tesla", "Galileo", "Newton"],
+    "answer": "Newton"
+  },
+  {
+    "question": "Largest heat desert in world:",
+    "options": ["Sahara", "Thar", "Gobi", "Arctic"],
+    "answer": "Sahara"
+  },
+  {
+    "question": "The Preamble begins with:",
+    "options": ["We the people", "India is great", "Constitution of India", "Republic India"],
+    "answer": "We the people"
+  },
+  {
+    "question": "Fundamental Duties were added by:",
+    "options": ["86th Amendment", "44th Amendment", "73rd Amendment", "42nd Amendment"],
+    "answer": "42nd Amendment"
+  },
+  {
+    "question": "Which crop is grown in Kharif season?",
+    "options": ["Wheat", "Rice", "Barley", "Gram"],
+    "answer": "Rice"
+  },
+  {
+    "question": "Which is the smallest state in India by area?",
+    "options": ["Goa", "Sikkim", "Tripura", "Manipur"],
+    "answer": "Goa"
+  },
+  {
+    "question": "CP = ₹500, Profit = 20%. Find SP.",
+    "options": ["₹600", "₹550", "₹580", "₹620"],
+    "answer": "₹600"
+  },
+  {
+    "question": "Find rate if SI on ₹500 for 2 years is ₹100.",
+    "options": ["10%", "12%", "15%", "20%"],
+    "answer": "10%"
+  },
+  {
+    "question": "Average of 5 numbers is 12. Sum = ?",
+    "options": ["50", "55", "60", "65"],
+    "answer": "60"
+  },
+  {
+    "question": "A and B do work in 12 days together. A alone takes 18 days. B alone takes?",
+    "options": ["36", "30", "20", "25"],
+    "answer": "36"
+  },
+  {
+    "question": "20 workers complete work in 10 days. 10 workers take?",
+    "options": ["5", "10", "20", "15"],
+    "answer": "20"
+  },
+  {
+    "question": "Speed = 60 km/hr, time = 2 hr. Distance?",
+    "options": ["100", "120", "140", "80"],
+    "answer": "120"
+  },
+  {
+    "question": "Distance = 150 km, speed = 50 km/hr. Time?",
+    "options": ["2 hr", "5 hr", "4 hr", "3 hr"],
+    "answer": "3 hr"
+  },
+  {
+    "question": "Cost of 10 kg mangoes = ₹500. Cost of 15 kg?",
+    "options": ["₹600", "₹700", "₹750", "₹800"],
+    "answer": "₹750"
+  },
+  {
+    "question": "Evaluate: 8 + 3 × 4 − 6 ÷ 2",
+    "options": ["14", "17", "20", "11"],
+    "answer": "17"
+  },
+  {
+    "question": "A number increased by 20% becomes 120. Find the number.",
+    "options": ["80", "90", "100", "110"],
+    "answer": "100"
+  }
+]
