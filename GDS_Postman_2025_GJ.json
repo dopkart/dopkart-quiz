@@ -480,7 +480,7 @@
     "answer": 1
   },
   {
-    "question": "5 men = time as 10 women for 1-acre. 6 men take 10 days (4hrs/day) for 1-acre. How many days for 10 women, 2-acre, 6hrs/day?",
+    "question": "5 men takes as much time to harvest a 1 acre field as 10 women takes. if 6 men take 10 days to harvest 1 acre field (4hrs/day) for 1-acre. How many days for 10 women harvest 2-acre field working 6hrs/day?",
     "options": [
       "12 days",
       "14 days",
