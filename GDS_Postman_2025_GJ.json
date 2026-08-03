@@ -250,9 +250,12 @@
     "answer": 2
   },
   {
-    "question": "Arrange departmental positions in increasing order of authority Postal Board Member, Director, Postmaster General, Senior Superintendent, Senior Postmaster",
+    "question": "Arrange departmental positions in increasing order of authority: Postal Board Member, Director, Postmaster General, Senior Superintendent, Senior Postmaster",
     "options": [
-      "Postal Board Member,Director,Postmaster General,Senior Postmaster,Senior Superintendent"
+      "Senior Superintendent, Senior Postmaster, Director, Postmaster General, Postal Board Member",
+      "Director, Senior Postmaster, Senior Superintendent, Postmaster General, Postal Board Member",
+      "Senior Postmaster, Senior Superintendent, Director, Postmaster General, Postal Board Member",
+      "Postal Board Member, Postmaster General, Director, Senior Superintendent, Senior Postmaster"
     ],
     "answer": 2
   },
