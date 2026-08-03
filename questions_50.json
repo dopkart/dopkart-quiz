@@ -1,0 +1,499 @@
+[
+  {
+    "question": "Working hours of post offices fixed by:",
+    "options": [
+      "Head of Sub Division",
+      "Head of Circle",
+      "Head of Division",
+      "None"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Officer on camp received special bag with ordinary parcel, money order, registered letters. What was incorrect?",
+    "options": [
+      "Nothing wrong",
+      "Registered articles should be in registered bag",
+      "Ordinary parcels/money orders should not be in special bags",
+      "Special bag shouldn't contain any of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Match Circle/Region with HQ: A-Arunachal Pradesh, B-Goa, C-Punjab, D-Haryana with p-Chandigarh, q-Mumbai, r-Shillong, s-Ambala",
+    "options": [
+      "A-s,B-r,C-q,D-p",
+      "A-r,B-s,C-q,D-p",
+      "A-r,B-q,C-s,D-p",
+      "A-r,B-q,C-p,D-s"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Only one License die in franking machine allowed, more than one Value die impression allowed.",
+    "options": [
+      "Correct",
+      "Incorrect",
+      "Both allowed more than one",
+      "Neither allowed more than one"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If parcel found with more than one communication, each shall be charged with:",
+    "options": [
+      "Single letter postage",
+      "Double letter postage",
+      "Single parcel postage",
+      "Registered parcel postage"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Registered newspaper publisher couldn't post on time due to Covid-19. Whom to write for new approved date?",
+    "options": [
+      "Postmaster General",
+      "Senior Superintendent of Post Offices",
+      "Senior Superintendent of RMS",
+      "Postmaster of booking office"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "During inspection, inspecting authority noted amount collected from degree college sending blind literature to blind student. Which was collected correctly?",
+    "options": [
+      "Registration fee",
+      "Postage fee",
+      "Air surcharge",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A Book packet cannot contain:",
+    "options": [
+      "Printed Music Books",
+      "Printed circulars",
+      "Printed magazines",
+      "Blank Parchment"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A sends registered article delivered damaged. Claim compensation within:",
+    "options": [
+      "10 days from posting",
+      "3 months from posting",
+      "6 months from posting",
+      "12 months from posting"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A sent parcel to B, postage to be paid by B on receipt. B refuses to accept, A also refuses to pay postage:",
+    "options": [
+      "Post Office retains article until postage paid",
+      "PO can destroy article after 10 days",
+      "PO can deliver to B free",
+      "PO can hold/send back after 7 days until A pays"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Postman can attempt home delivery of parcel over 10 KG:",
+    "options": [
+      "Once",
+      "Twice",
+      "Every day for 5 days",
+      "Never"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "PMA application can be used for: (1)Delivery of Speed Post & Registered articles (2)Marking location of LBs (3)Delivery of Parcels & COD (4)Delivery of e-MOs",
+    "options": [
+      "1 only",
+      "2 and 4 only",
+      "1,3 and 4 only",
+      "1,2 and 4 only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Not allowed through inland post:",
+    "options": [
+      "Perfumes",
+      "Tuberculosis sputum",
+      "Live bees",
+      "Lottery tickets"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which bag is closed to transmit empty bags to UBO/DBO/CBO?",
+    "options": [
+      "Packet Bag",
+      "Due Bag",
+      "Registered Packet Bag",
+      "Transit Bag"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A, B, C post offices in straight line. Bags from A to C sent via B without opening. B is called:",
+    "options": [
+      "Transit Section",
+      "Head Office",
+      "Link post office",
+      "Transit Office"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If sending an insured bag, what should be enclosed in?",
+    "options": [
+      "Unusual bag",
+      "Cash Bag",
+      "Registered Bag",
+      "Parcel Bag"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In convertible Whole Life insurance, customer can convert to Endowment Assurance Policy within first ___ years:",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Statements: i) Customs duty assessment done at both foreign PO & foreign sub PO ii) Foreign PO is office of exchange, foreign sub PO is not",
+    "options": [
+      "I only",
+      "II only",
+      "I and II are correct",
+      "Neither is correct"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Statements: i) Due Mail List shows details of bags to be received ii) Post Restante article kept max 60 days iii) No such thing as beat in RMS section",
+    "options": [
+      "I only",
+      "II and III only",
+      "I and III only",
+      "None of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If renter misusing Post Box, PO can:",
+    "options": [
+      "Charge ₹5000 penalty",
+      "Charge double rent",
+      "Withdraw post box facility",
+      "Lodge FIR"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What are Trial cards?",
+    "options": [
+      "Service Letters",
+      "Service Post Cards",
+      "Service Inland Letter Cards",
+      "Service Parcel Cards"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Minimum registered articles to prepare registered bundles:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Stamp collectors can collect stamps from the ___:",
+    "options": [
+      "Multipurpose Counter",
+      "Postman",
+      "Philatelic Bureau",
+      "Philately branch"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "i) Postage value paid by franking machine impressions ii) Can also be paid in cash",
+    "options": [
+      "I correct, II wrong",
+      "I wrong, II correct",
+      "Both correct",
+      "Both wrong"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Special Bags can be delivered on:",
+    "options": [
+      "Working days only",
+      "Sundays & holidays only",
+      "Working days, Sundays and holidays",
+      "Working days & Sundays but not other holidays"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Arrange departmental positions in increasing order of authority: Postal Board Member, Director, Postmaster General, Senior Superintendent, Senior Postmaster",
+    "options": [
+      "Postal Board Member,Director,Postmaster General,Senior Postmaster,Senior Superintendent"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Window delivery of insured article done if insured value more than:",
+    "options": [
+      "₹500",
+      "₹100",
+      "₹1000",
+      "₹5000"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "PO detained inland article 10 days, foreign article 20 days. Correct?",
+    "options": [
+      "Yes, inland-10, foreign-20",
+      "No, inland-5, foreign-10",
+      "No, inland-20, foreign-10",
+      "No, inland-7, foreign-15"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Person sending books parcel, max dimensions (length+girth) allowed (in m×m)?",
+    "options": [
+      "1.0×1.8",
+      "1.5×1.5",
+      "1.0×1.0",
+      "2.0×1.5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Annual fee for post box and post bag facility:",
+    "options": [
+      "₹150",
+      "₹250",
+      "₹100",
+      "₹800"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "i) Delhi people wear woolen clothes in winter, Surat people wear cotton in winter ii) Both cities at same longitude",
+    "options": [
+      "Both true, II explains I",
+      "Both true, II doesn't explain I",
+      "I true, II false",
+      "I false, II true"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Match Column I & II: A-Jan 1921, B-1918-19, C-May 1924, D-Dec 1931 with p-Baba Rama Chandra organizes peasants in UP, q-Non-cooperation & Khilafat launched, r-Alluri Sitaram Raju arrested, s-Second Round Table Conference London",
+    "options": [
+      "A-p,B-r,C-s,D-q",
+      "A-q,B-p,C-r,D-s",
+      "A-s,B-r,C-q,D-p",
+      "A-r,B-s,C-q,D-p"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many postal circles in the country?",
+    "options": [
+      "25",
+      "30",
+      "23",
+      "21"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "___ is the first Indian citizen to be stationed on the International Space Station:",
+    "options": [
+      "Rakesh Sharma",
+      "Divyanshu Shukla",
+      "Sunita Williams",
+      "Shubhanshu Shukla"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "New mail guard joked he comes from a state which does not share land boundary with Bhutan:",
+    "options": [
+      "Assam",
+      "Mizoram",
+      "Arunachal Pradesh",
+      "West Bengal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "\"He\" was founder of Mexican Communist Party, prominent Comintern leader in India, China, Europe. In Central Asia during civil war 1920s. Who is \"He\"?",
+    "options": [
+      "J.L. Nehru",
+      "M.K. Gandhi",
+      "M.N. Roy",
+      "Alexander Benniger"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many states in India have a coastline?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "11"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify port marked by Δ symbol on map:",
+    "options": [
+      "Chennai",
+      "Tuticorin",
+      "Mangalore",
+      "Kochi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Rohan on school trip to biosphere reserve on river delta; trees with long roots submerged in water, powder-like substance on leaf. Identify forest type:",
+    "options": [
+      "Tropical Evergreen Forests",
+      "Tropical Deciduous Forests",
+      "Mangrove Forests",
+      "Montane Forests"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Max interval (months) between two sessions of State Legislative Assembly:",
+    "options": [
+      "1 month",
+      "3 months",
+      "6 months",
+      "9 months"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Rohit borrowed ₹60,000 at 9% p.a. for 2 years, lent to Rohan at 10% p.a. for 2 years. How much did Rohit earn?",
+    "options": [
+      "₹1220",
+      "₹1150",
+      "₹1200",
+      "₹1180"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Time for sum to become 5 times itself at 16% simple interest p.a.:",
+    "options": [
+      "20 years",
+      "25 years",
+      "28 years",
+      "None of the above"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ajay sells land to Vijay for ₹45,000, losing 10%. Vijay sells to Sanjay at price giving Ajay 10% profit (had he sold direct). Vijay's gain %?",
+    "options": [
+      "100/3%",
+      "75/2%",
+      "200/9%",
+      "220/6%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Parul's salary 2025 is ₹1,26,500. 2023 salary increased 10% & 15% respectively to reach these figures. What was salary in 2023?",
+    "options": [
+      "₹95,000",
+      "₹1,25,000",
+      "₹1,15,000",
+      "₹1,00,000"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Seema scoring 40% fails by 50 marks. At 50% she scored 180 marks less than Kavita's highest (70% of total). Passing %?",
+    "options": [
+      "33.33%",
+      "42.33%",
+      "45.56%",
+      "50%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(?)^(4/5)/54 = 24/(?)^(6/5)",
+    "options": [
+      "18",
+      "36",
+      "12",
+      "54"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "24×(0.0112−0.0012) of 0.14+0.25×0.2 / (0.02×0.01) = ?",
+    "options": [
+      "257",
+      "2.57",
+      "25.7",
+      "0.0257"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bhupen Bhai walks/runs to school, runs twice as fast as walks. Monday: walked twice time he ran. Tuesday: ran twice time he walked, 6 min quicker. Wednesday: walked entire distance. Time on Wednesday?",
+    "options": [
+      "30 minutes",
+      "40 minutes",
+      "45 minutes",
+      "Cannot be determined"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5 men = time as 10 women for 1-acre. 6 men take 10 days (4hrs/day) for 1-acre. How many days for 10 women, 2-acre, 6hrs/day?",
+    "options": [
+      "12 days",
+      "14 days",
+      "16 days",
+      "18 days"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If 7 spiders make 7 webs in 7 days, 1 spider makes 1 web in how many days?",
+    "options": [
+      "1",
+      "8",
+      "7",
+      "None of the above"
+    ],
+    "answer": 2
+  }
+]
